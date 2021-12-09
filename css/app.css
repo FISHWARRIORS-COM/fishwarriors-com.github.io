@@ -19737,7 +19737,6 @@ input[data-v-46c23afd]:-ms-input-placeholder {
 }
 
 .index-page .scroll_bg3 .role-content .main-content[data-v-11bc6412] {
-    max-width: 450px;
     height: auto;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -37214,10 +37213,6 @@ html[data-v-3035f8cc] {
     content: "\E6A4";
 }
 
-.icon-cat-paw:before {
-    content: "\E6A3";
-}
-
 .icon-life:before {
     content: "\E697";
 }
@@ -37336,14 +37331,6 @@ html[data-v-3035f8cc] {
 
 .icon-home-d:before {
     content: "\E67D";
-}
-
-.icon-cat-a:before {
-    content: "\E67E";
-}
-
-.icon-cat-d:before {
-    content: "\E67F";
 }
 
 .icon-gift:before {
