@@ -37900,7 +37900,7 @@ html[data-v-3035f8cc] {
     color: #fff;
 }
 
-.nav-page .nav-fixed .nav-title .nav-title-a a[data-v-7462027c]:hover * {
+.nav-page .nav-fixed .nav-title .nav-title-a a[data-v-7462027c]:hover, .nav-page .nav-fixed .nav-title .nav-title-a a[data-v-7462027c]:hover * {
     color: #FFC061;
 }
 
